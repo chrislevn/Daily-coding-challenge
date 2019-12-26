@@ -1,3 +1,5 @@
+# Problem: https://codeforces.com/problemset/problem/691/A
+
 n = int(input())
 arr = list(map(int, input().split()))
 
